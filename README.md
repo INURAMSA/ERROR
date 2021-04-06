@@ -1,13 +1,12 @@
-# Virtex Bot Whatsapp
-Virtex BOT Whatsapp Ganas 2021
+# VX ERROR
 
 ### UNTUK PENGGUNA TERMUX
 ```bash
 > pkg update && pkg upgrade
 > pkg install git -y
 > pkg install nodejs -y
-> git clone https://github.com/Bintang73/VirtexBotWa
-> cd VirtexBotWa
+> git clone https://github.com/INURAMSA/ERROR
+> cd ERROR
 > npm install
 > node index.js
 ```
@@ -16,8 +15,8 @@ Virtex BOT Whatsapp Ganas 2021
 ```bash
 > download node js and install
 > download git and install
-> git clone https://github.com/Bintang73/VirtexBotWa
-> cd VirtexBotWa
+> git clone https://github.com/INURAMSA/ERROR
+> cd ERROR
 > npm install
 > node index.js
 ```
@@ -30,8 +29,8 @@ Virtex BOT Whatsapp Ganas 2021
 ```bash
 > setelah kamu membuat perintah "node index.js" lalu scan qr whatsapp web mu!
 > cari target grup whatsapp
-> kirim pesan "zhack" (tanpa tanda ")
-> selamat virtex berhasil dikirim.
+> kirim pesan "https://youtube.com/channel/UCo-X2L6tomlBHAnM90EcT7w" (tanpa tanda ")
+> selamat virte berhasil dikirim.
 ```
 
 ---------
@@ -39,7 +38,7 @@ Virtex BOT Whatsapp Ganas 2021
 ```bash
 > kamu juga bisa mencustom perintah dan jawaban bot kamu
 > caranya kamu buka file setting.json
-> lalu ubah kata "zhack" menjadi sesuka hati kalian.
+> lalu ubah kata "https://youtube.com/channel/UCo-X2L6tomlBHAnM90EcT7w" menjadi sesuka hati kalian.
 > kamu juga bisa mengubah pesan "succes!" menjadi sesuka hati kalian.
 ```
 
@@ -55,5 +54,4 @@ Virtex BOT Whatsapp Ganas 2021
 
 ---------
 
-##### Powered By : [`st4rz`](https://instagram/bintang_nur_pradana) 
-##### Donate : [`Saweria`](https://saweria.co/donate/bintangnurpradana) 
+#####  aQwerrttttdud
